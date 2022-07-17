@@ -1,2 +1,3 @@
 # PONG
-Project in course
+Project in course!
+WELCOME TO COPY!
