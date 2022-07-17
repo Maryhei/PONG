@@ -1,1 +1,2 @@
 # PONG
+Project in course
